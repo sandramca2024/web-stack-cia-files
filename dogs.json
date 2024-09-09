@@ -1,0 +1,58 @@
+[
+    {
+      "breedId": "B101",
+      "breedName": "Golden Retriever",
+      "description": "Friendly, intelligent, and devoted. Great family dog.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Scotland",
+      "imageUrl": "golden.jpg"
+    },
+    {
+      "breedId": "B102",
+      "breedName": "Labrador Retriever",
+      "description": "Outgoing, even-tempered, and gentle.",
+      "size": "Large",
+      "lifespan": "10-12 years",
+      "origin": "Canada",
+      "imageUrl": "Labrador.jpg"
+    },
+    {
+      "breedId": "B103",
+      "breedName":"German Shepard",
+      "description": "good, friendly.",
+      "size": "Medium",
+      "lifespan": "12-13 years",
+      "origin": "New York",
+      "imageUrl": "german.jpg"
+    },
+    {
+      "breedId": "B104",
+      "breedName":"Dash Dogs",
+      "description": "good, friendly.",
+      "size": "Medium",
+      "lifespan": "7-8 years",
+      "origin": "India",
+      "imageUrl": "dash.jpg"
+    },
+    {
+      "breedId": "B105",
+      "breedName":"Pugs",
+      "description": "scary, small.",
+      "size": "small",
+      "lifespan": "12-13 years",
+      "origin": "New Zealand",
+      "imageUrl": "pugs.jpg"
+    },
+    {
+      "breedId": "B106",
+      "breedName":"chihuahua",
+      "description": "loya;, friendly.",
+      "size": "Medium",
+      "lifespan": "12-13 years",
+      "origin": "Africa",
+      "imageUrl": "chihuahua.jpg"
+    }
+  
+  ]
+  
